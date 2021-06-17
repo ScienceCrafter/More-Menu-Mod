@@ -1,13 +1,12 @@
-# The Speeds Science Crafter Wanted part 2, wacky boogaloo
+# Like Fishes' Custom Menu Stuff mod but there's even more stuff!!
 
 ## Enable The Mod
-Paste the code from `speeds.js` into the console, then
+Paste the code from `more_menu.js` into the console, then
 paste into the console:
 ```
-window.snake.speeds();
+window.snake.moreMenu();
 ```
-or click the bookmark
 
 ## Contributors
-* Fishes <3
+* Fishes
 * ScienceCrafter
